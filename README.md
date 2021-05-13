@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**JoHn-111/JoHn-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Hi, I'm John.
+- 👀 I am interested in python.
+- 🎓 I am currently learning MongoDB.
+- 👾 Right now my main project is [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot).
+- 📫 How to contact me: [Telegram](https://t.me/john_phonk).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://komarev.com/ghpvc/?username=JoHn-111&color=565f89&style=flat)
+
+[![](https://github-readme-stats.vercel.app/api?&show_icons=true&theme=tokyonight&show_icons=true&username=JoHn-111)](https://github.com/anuraghazra/github-readme-stats)
+
