@@ -1,7 +1,6 @@
-### Hi! 👋
+### 👋 Hi, I'm John.
 
 
-- 👋 Hi, I'm John.
 - 🐍 Average python enjoyer.
 - 🎓 I am currently learning MongoDB.
 - 👾 Right now my main project is [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot).
