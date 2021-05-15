@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I'm John.
-- 👀 I am interested in python.
+- 🐍 Average python enjoyer.
 - 🎓 I am currently learning MongoDB.
 - 👾 Right now my main project is [Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot).
 - 📫 How to contact me: [Telegram](https://t.me/john_phonk).
