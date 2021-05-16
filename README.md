@@ -7,7 +7,7 @@
 - 📫 How to contact me: [Telegram](https://t.me/john_phonk).
 
 
-![](https://komarev.com/ghpvc/?username=JoHn-111&color=565f89&style=flat)
+![](https://komarev.com/ghpvc/?username=john-phonk&color=565f89&style=flat)
 
-[![](https://github-readme-stats.vercel.app/api?&show_icons=true&theme=tokyonight&show_icons=true&username=JoHn-111)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?&show_icons=true&theme=tokyonight&show_icons=true&username=john-phonk)](https://github.com/anuraghazra/github-readme-stats)
 
