@@ -1,13 +1,10 @@
 <b><img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="30px"> Hi, I'm John.</b>
 
-<div align="center" style="text-align:center">
-<p>
 - 🐍 Average python enjoyer.</br>
 - 🎓 I am currently learning MongoDB.</br>
 - 👾 Right now my main project is <a href='https://github.com/Dragon-Userbot/Dragon-Userbot'>Dragon-Userbot</a>.</br>
 - 📫 How to contact me: <a href='https://t.me/john_phonk'>Telegram</a>.</br>
-</p>
-</div>
+
 
 <div align="center" style="text-align:center">
 
