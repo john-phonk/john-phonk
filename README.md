@@ -1,8 +1,7 @@
 <b><img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="30px"> Hi, I'm John.</b>
 
-- 🐍 Average python enjoyer.</br>
-- 👾 Right now my main project is <a href='https://github.com/Dragon-Userbot/Dragon-Userbot'>Dragon-Userbot</a>.</br>
-- 📫 How to contact me: <a href='https://t.me/john_phonk'>Telegram</a>.</br>
+🐍 Average python enjoyer.</br>
+📫 My <a href='https://t.me/john_phonk'>Telegram</a>.</br>
 
 
 <div align="center" style="text-align:center">
