@@ -1,7 +1,7 @@
 <b><img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="30px"> Hi, I'm John.</b>
 
-🐍 Average python enjoyer.</br>
-📫 My <a href='https://t.me/john_phonk'>Telegram</a>.</br>
+🐍 Average python enjoyer</br>
+📫 <a href='https://t.me/john_phonk'>My Telegram</a></br>
 
 
 <div align="center" style="text-align:center">
