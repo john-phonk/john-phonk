@@ -8,5 +8,5 @@
   
 </div>
 
-🐍 Average python enjoyer</br>
-📫 <a href='https://t.me/john_phonk'>My Telegram</a></br>
+🐍Average python enjoyer</br>
+🚀<a href='https://t.me/john_phonk'>My Telegram</a></br>
