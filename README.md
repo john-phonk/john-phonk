@@ -1,4 +1,4 @@
- <b><img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="30px"> Hi, I'm John Phonk.</b>
+ <b> Hi, I'm John Phonk.</b>
 
 
 
