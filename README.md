@@ -13,4 +13,4 @@
 🐍Average python enjoyer</br>
 🚀<a href='https://t.me/john_phonk'>My Telegram</a></br>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=n8omzwxrpp7dnfpwxfif66pst&cover_image=false&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
+<!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=n8omzwxrpp7dnfpwxfif66pst&cover_image=false&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>-->
